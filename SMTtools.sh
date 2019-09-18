@@ -17,11 +17,11 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet DERZGRUB TOOLSv2 | lolcat
+figlet SMT TOOLSv2 | lolcat
 
-echo -e  "NamaTools    : SMTToolsv1 $white         
+echo -e  "NamaTools    : SMTtoolsv1 $white         
 " |lolcat
-echo -e  "Pembuat Tools  : Tn.akmalgt $white   " |lolcat
+echo -e  "Pembuat Tools  : akmalgt $white   " |lolcat
 echo -e  "Blog  : sesepuhmarsteam.site 
 $white " |lolcat
 echo -e  "Team  : sesepuh mars team $green   " |lolcat
