@@ -19,31 +19,30 @@ red='\e[1;31m'
 
 figlet DERZGRUB TOOLSv2 | lolcat
 
-echo -e  "NamaTools    : DerzToolsv2 $white         
+echo -e  "NamaTools    : SMTToolsv1 $white         
 " |lolcat
-echo -e  "Pembuat Tools  : Tn.JonathanDerz $white   " |lolcat
-echo -e  "Blog  : derzgrub.site 
+echo -e  "Pembuat Tools  : Tn.akmalgt $white   " |lolcat
+echo -e  "Blog  : sesepuhmarsteam.site 
 $white " |lolcat
-echo -e  "Team  : DerzGrub Whitehat Indonesia $green   " |lolcat
+echo -e  "Team  : sesepuh mars team $green   " |lolcat
 ###################################################
 # CTRL + C
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo -e $red"[#]> (Ctrl + C ) Detected, Trying 
-To Exit ... "
-echo -e $cyan"[#]> MaturSuwun Su"
+echo -e $red"[#]> (Ctrl + C ) keluar, buru-buru amat "
+echo -e $cyan"[#]> Thanks Asu"
 sleep 1
 echo ""
-echo -e $white"[#]> Jangan Lupa Ngeue :)..."
+echo -e $white"[#]> Jangan Lupa share :)..."
 sleep 1
 exit
 }
 lagi=1
 while [ $lagi -lt 101 ];
 do
-echo "•∆•∆•∆•∆•∆•DERZGRUB TOOLS INSTALLER TERBARU•∆•∆•∆•∆•∆"
+echo "•∆•∆•∆•∆•∆•SMT TOOLS INSTALLER V1•∆•∆•∆•∆•∆"
 echo -e $b "1.  Nmap${enda}";
 echo -e "============================" | lolcat
 echo -e $r "2.  Admin-finder${endc}";
@@ -194,7 +193,7 @@ install.aex
 
 ;;
 
-15) echo "Salam Kami Dari DerzGrub Team" | lolcat
+15) echo "Salam Kami Dari sesepuh mars team" | lolcat
 exit
 ;;
 
@@ -205,7 +204,7 @@ echo "O"
 
 ;;	
 
-*) echo "sorry, pilihanmu ra enek su"
+*) echo "maaf, pilihan lu gak ada njing"
 esac
 done
 done
