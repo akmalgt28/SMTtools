@@ -78,7 +78,7 @@ echo "=÷=÷=÷=÷=÷=BONUS TOOLS DARI KAMI=÷=÷=÷=÷=÷"
 echo -e $g "99.Sadap Whatsapp Mantan${endc}";	
 echo -e $g "100.Hack HP Pacar${endc}";
 echo -e $g "101.Kuota Gratis${endc}";
-echo -e "╭>DerzUser" |lolcat
+echo -e "╭>SMT" |lolcat
 read -p "╰─#" pil;
 
 # Nmap
